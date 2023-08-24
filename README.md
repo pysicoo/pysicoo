@@ -1,8 +1,8 @@
+-----------------------------------------------------------------------------------
 Athos Matheus Ferreira Lima
 
 - 🌱 Cursando Analise e desenvolvimento de Sistemas
-- 🔭 Estudando JavaScript / C# 
-- 👯 Pronome: Ele/Dele
+- 🔭 JavaScript / Reactjs /  NODEJS / SQL (Postgres SQL) / NoSQL (MongoDB) / HTML / Git / GitHub / Typescript||
 - 🤔 17/06/2004
 ----------------------------------------------------
 <div align="center">
